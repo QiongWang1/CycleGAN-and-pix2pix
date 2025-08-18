@@ -1,0 +1,9 @@
+# Ignore zip files
+*.zip
+
+# Ignore system files
+.DS_Store
+*.zip
+.DS_Store
+*.zip
+.DS_Store
