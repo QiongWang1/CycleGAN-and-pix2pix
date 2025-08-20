@@ -1,9 +1,8 @@
 # Ignore zip files
 *.zip
 
-# Ignore system files
-.DS_Store
-*.zip
-.DS_Store
-*.zip
+# Ignore local folder
+pytorch-CycleGAN-and-pix2pix/
+
+# Ignore macOS system files
 .DS_Store
